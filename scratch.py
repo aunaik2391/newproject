@@ -8,6 +8,6 @@ if  a > b :
 else:
      print("b is greater than a")
 if c>d :
-    print("c is greater than d")
+    print('c is greater than d')
 else:
-    print("d is greater than c")
+    print('d is greater than c')
